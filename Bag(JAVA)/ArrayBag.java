@@ -58,7 +58,7 @@ public class ArrayBag<T extends Comparable<? super T>> implements Bag<T> {
 					PosAOcupar = j;
 				}
 			}
-			for(int m = nextFree; m>PosAOcupar; m++){
+			for(int m = nextFree; m>PosAOcupar; m--){
 				elements[m] = elements[m-1];
 				repetitions[m] = repetitions[m-1];
 			}

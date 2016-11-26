@@ -1,5 +1,5 @@
 /**
- * @author <<write here your name>> 
+ * @author <<AlvaroGarciaFernandez>> 
  * 
  * Maxiphobic Heaps
  * Data Structures, Grado en Informática. UMA.

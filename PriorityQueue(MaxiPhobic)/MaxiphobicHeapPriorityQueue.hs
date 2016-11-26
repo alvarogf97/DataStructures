@@ -1,9 +1,3 @@
--------------------------------------------------------------------------------
--- Priority Queues with Maxiphobic Heaps
---
--- Data Structures. Grado en Informática. UMA.
--- Pepe Gallardo, 2012
--------------------------------------------------------------------------------
 
 module DataStructures.PriorityQueue.MaxiphobicHeapPriorityQueue
   ( PQueue

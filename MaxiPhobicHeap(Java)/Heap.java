@@ -1,8 +1,4 @@
-/**
- * @author Pepe Gallardo, Data Structures, Grado en InformÃ¡tica. UMA.
- *
- * Interface for Heaps
- */
+
  
  package dataStructures.heap;
 

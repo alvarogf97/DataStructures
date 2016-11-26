@@ -1,9 +1,3 @@
--------------------------------------------------------------------------------
--- Axioms for Priority Queues
---
--- Data Structures. Grado en Informática. UMA.
--- Pepe Gallardo, 2012
--------------------------------------------------------------------------------
 
 module DataStructures.PriorityQueue.PriorityQueueAxioms(ax1,ax2,ax3,ax4,ax5,ax6,priorityQueueAxioms) where
 

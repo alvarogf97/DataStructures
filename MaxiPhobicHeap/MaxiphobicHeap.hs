@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
--- Student's name: <<<write your name here>>>
+-- Student's name: <<<Alvaro Garcia Fernandez>>>
 --
 -- Maxiphobic Heaps
 -- Data Structures. Grado en Informática. UMA.
